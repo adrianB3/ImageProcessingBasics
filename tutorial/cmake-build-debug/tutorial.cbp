@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tutorial"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tutorial">
+				<Option output="/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/tutorial" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 tutorial"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tutorial/fast">
+				<Option output="/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/tutorial" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/include/c++/8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 tutorial/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/adrianb3/dev/c_vision_algo/tutorial/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/adrianb3/dev/c_vision_algo/tutorial/Image.cpp">
+			<Option target="tutorial"/>
+		</Unit>
+		<Unit filename="/home/adrianb3/dev/c_vision_algo/tutorial/Image.h">
+			<Option target="tutorial"/>
+		</Unit>
+		<Unit filename="/home/adrianb3/dev/c_vision_algo/tutorial/PPMImage.cpp">
+			<Option target="tutorial"/>
+		</Unit>
+		<Unit filename="/home/adrianb3/dev/c_vision_algo/tutorial/PPMImage.h">
+			<Option target="tutorial"/>
+		</Unit>
+		<Unit filename="/home/adrianb3/dev/c_vision_algo/tutorial/main.cpp">
+			<Option target="tutorial"/>
+		</Unit>
+		<Unit filename="/home/adrianb3/dev/c_vision_algo/tutorial/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
